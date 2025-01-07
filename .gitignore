@@ -5,6 +5,10 @@ node_modules/
 
 # Expo
 .expo/
+build/ 
+*.log 
+*.apk 
+*.ipa 
 dist/
 web-build/
 expo-env.d.ts
